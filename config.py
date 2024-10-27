@@ -1,6 +1,6 @@
 # LinkedIn credentials
-LINKEDIN_EMAIL = "ogtrailblazer@icloud.com"
-LINKEDIN_PASSWORD = "PrithviVadla123!@#"
+LINKEDIN_EMAIL = "your_email_id"
+LINKEDIN_PASSWORD = "your_password"
 
 # Database configuration
 DB_PATH = "networking_bot.db"
